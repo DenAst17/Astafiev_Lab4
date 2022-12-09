@@ -1,0 +1,48 @@
+[
+  {
+    "PIP": "Том Шелбі",
+    "Faculty": {
+		"Title": "ФКНК",
+		"Department": "1",
+		"Branch": "1"
+	},
+	"Cathedra": "Комп'ютерне моделювання",
+	"Laboratory" : "42",
+	"Role": {
+		"Title": "Вчений",
+		"StartDate": "01.02.2022",
+		"EndDate": "29.02.2024"
+	},
+	"WorkTitle": "Моделювання зірки",
+	"Client" : {
+		"Name": "Шерлок Холмс",
+		"Address": "Бейкер стріт, 221b",
+		"Submission": "Приватний",
+		"Area": "Спеціальна"
+	},
+	"Number": 10
+  },
+  {
+    "PIP": "Том Шелбі",
+    "Faculty": {
+		"Title": "ФКНК",
+		"Department": "2",
+		"Branch": "1"
+	},
+	"Cathedra": "Математичне моделювання",
+	"Laboratory" : "42",
+	"Role": {
+		"Title": "Вчений",
+		"StartDate": "01.02.2022",
+		"EndDate": "29.02.2024"
+	},
+	"WorkTitle": "Моделювання зірки",
+	"Client" : {
+		"Name": "Шерлок Холмс",
+		"Address": "Бейкер стріт, 221b",
+		"Submission": "Приватний",
+		"Area": "Спеціальна"
+	},
+	"Number": 20
+  }
+]

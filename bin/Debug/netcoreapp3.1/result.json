@@ -1,0 +1,23 @@
+﻿{
+  "PIP": "Михтар П. В.",
+  "Faculty": {
+    "Title": "ФІТ",
+    "Department": "Матаналіз",
+    "Branch": "1"
+  },
+  "Cathedra": "Матаналіз",
+  "Laboratory": "11",
+  "Role": {
+    "Title": "Аспірант",
+    "StartDate": "01.01.2020",
+    "EndDate": "31.12.2022"
+  },
+  "WorkTitle": "Обчислення нескінченних лімітів у похідних 3 порядку",
+  "Client": {
+    "Name": "-",
+    "Address": "-",
+    "Submission": "-",
+    "Area": "-"
+  },
+  "Number": 42
+}
